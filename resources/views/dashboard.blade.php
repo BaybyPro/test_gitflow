@@ -12,6 +12,7 @@
                 <div class="p-6 text-gray-900">
                     HOLA MUNDOOOOOOOOOOOOOOOOOOOO
                     RELEASE
+                    HOLA AHORA SOY UN HOTFIX
                 </div>
             </div>
         </div>
